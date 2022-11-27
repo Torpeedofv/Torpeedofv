@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Torpeedofv
-- 👀 I’m interested in creating software programs in C language
-- 🌱 I’m currently learning python
+- 👀 I’m interested in creating software programs in C language, Javascript.
+- 🌱 I’m currently learning python, html & Css
 - 💞️ I’m looking to collaborate on any C related project
 - 📫 How to reach me torpeedo.fv@gmail.com
 
